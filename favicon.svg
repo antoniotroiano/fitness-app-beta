@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 829 829">
+  <title>TRAINRATE: WORKOUT</title>
+  <desc>White stylized R and dumbbell on a black rounded square.</desc>
+  <g transform="translate(0 4)">
+    <path d="
+      M 150 1
+      H 679
+      C 762 1 829 68 829 151
+      V 670
+      C 829 753 762 820 679 820
+      H 150
+      C 67 820 0 753 0 670
+      V 151
+      C 0 68 67 1 150 1
+      Z" fill="#000000"/>
+    <g fill="#FFFFFF">
+      <!-- Dumbbell: left outer weight -->
+      <path d="
+        M 180 176 H 220
+        Q 225 176 223 182
+        L 201 268
+        Q 200 272 195 272
+        H 156
+        Q 151 272 153 267
+        L 176 181
+        Q 177 176 180 176 Z"/>
+      <!-- Dumbbell: left inner weight -->
+      <path d="
+        M 249 146 H 296
+        Q 302 146 300 152
+        L 259 292
+        Q 258 297 253 297
+        H 208
+        Q 202 297 204 291
+        L 243 151
+        Q 244 146 249 146 Z"/>
+      <!-- Dumbbell bar -->
+      <path d="
+        M 301 200 H 550
+        Q 553 200 554 204
+        L 564 232
+        Q 566 236 561 236
+        H 293
+        Q 288 236 290 231
+        L 298 204
+        Q 299 200 301 200 Z"/>
+      <!-- Dumbbell: right inner weight -->
+      <path d="
+        M 558 146 H 601
+        Q 606 146 608 151
+        L 646 291
+        Q 648 297 642 297
+        H 596
+        Q 590 297 588 291
+        L 553 152
+        Q 551 146 558 146 Z"/>
+      <!-- Dumbbell: right outer weight -->
+      <path d="
+        M 631 176 H 668
+        Q 674 176 676 181
+        L 697 267
+        Q 699 273 693 273
+        H 655
+        Q 650 273 649 268
+        L 626 182
+        Q 624 176 631 176 Z"/>
+      <!-- Main R -->
+      <path d="
+        M 216 340
+        L 291 429
+        H 556
+        C 573 429 585 443 585 461
+        C 585 480 572 495 555 495
+        H 510
+        L 459 568
+        L 576 702
+        H 695
+        L 577 575
+        C 635 566 676 516 676 456
+        C 676 392 626 340 563 340
+        Z"/>
+      <!-- Lower speed strokes -->
+      <path d="M 249 495 H 342 L 201 702 H 100 Z"/>
+      <path d="M 383 495 H 476 L 325 702 H 231 Z"/>
+    </g>
+  </g>
+</svg>

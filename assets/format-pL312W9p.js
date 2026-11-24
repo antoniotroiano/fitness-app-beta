@@ -1,0 +1,1 @@
+import{a as e}from"./i18n-CI06pt0S.js";function t(t,n){return n.find(e=>e.id===t.programId)?.days[t.dayIndex]?.name??(t.programId===null?e(`Importiertes Training`):e(`Training`))}var n=(e,t)=>t.find(t=>t.id===e.programId);export{t as n,n as t};
